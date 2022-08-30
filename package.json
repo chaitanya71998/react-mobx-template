@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-infinite-scroll-component": "5.0.3",
+    "mobx": "5.15.0",
+    "mobx-react": "6.1.4",
+    "styled-components": "4.4.1"
+  },
+  "resolutions": {
+    "mobx": "5.15.0",
+    "mobx-react": "6.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
